@@ -1,0 +1,290 @@
+{
+  "identites" : {
+    "nom" : "Mulema",
+    "postnom" : "Nowa",
+    "prenom" : "Eminence",
+    "adresse" : {
+      "numero" : 13,
+      "avenue" : "SELON",
+      "quartier" : "Q2",
+      "commune" : "N'djili",
+      "ville" : "Kinshasa",
+      "pays" : "RDCongo"
+    },
+    "contact":[
+      {
+        "id" : 1,
+        "detail" : "+243 823 412 934"
+      },
+      {
+        "id" : 2,
+        "detail" : "+243 899 548 513"
+      }
+    ],
+    "email" : "mulemanowa@gmail.com",
+    "horaire" : {
+        "jours" : "Lundi - Vendredi",
+        "heures" : "09H00 - 18H00"
+    }
+   },
+  "portfolio" : {
+    "entete" : {
+      "logo" : {
+        "titre" : "EM",
+        "image" : "/img/favicon_io/favicon.ico"
+      },
+      "navigation" : [
+        {
+        "id" : 1,
+        "libelle" : "Accueil"
+        },
+        {
+          "id" : 2,
+          "libelle" : "A propos"
+          },
+        {
+          "id" : 3,
+          "libelle" : "Services"
+          },
+          {
+          "id" : 4,
+          "libelle" : "Réalisations"
+          },
+          {
+            "id" : 5,
+            "libelle" : "Compétences"
+            },
+            {
+              "id" : 6,
+              "libelle" : "Contact"
+              }
+    ]
+    },
+    "accueil" : {
+      "titre" : "Des meilleures solutions pour votre entreprise",
+      "soustitre" : "Je suis un développeur Full Stack, Doué à la création des applications Web et Mobile,La différence est dans la qualité des services",
+      "image" : "/assets/img/hero-img.png"
+    },
+    "apropos" : {
+      "titre" : "A PROPOS",
+      "soustitre" : "Je suis développeur Full Stack et j'aime ça",
+      "image" : "/assets/img/hero-img.png",
+      "descriptions":[
+        {
+          "id" : 1,
+          "titre" : "Un développeur Full-Stack passionné !",
+          "detail" : [
+            {
+              "id" : 1,
+              "libelle" : "Ma passion pour le développement web commence en 2003 et m'a demandé un changement radical de cursus afin de pouvoir pleinement l'exploiter."
+            },
+            {
+              "id" : 2,
+              "libelle" : "Dès lors, je mis tout en oeuvre pour percer dans cette voie, tout en prenant du plaisir sur les divers projets développés."
+            },
+            {
+              "id" : 3,
+              "libelle" : "En Mai 2009, je décide de devenir <strong>développeur web indépendant</strong> après plusieurs postes en tant que développeur web « full-stack » réussis, qui me conforteront dans cette idée afin de toucher un plus large panel de domaines d'activités, voir du pays et conquérir le monde !"
+            }
+          ]
+        },
+        {
+          "id" : 2,
+          "titre" : "Expérience en développement",
+          "detail" : [
+            {
+              "id" : 1,
+              "libelle" : "Mon expérience acquise au fil des projets me permet de mieux comprendre les attentes d'un client et de répondre précisement au besoin demandé en fonction du domaine d'activité."
+            },
+            {
+              "id" : 2,
+              "libelle" : "Du site vitrine au projet plus complexe, je vous propose une expertise et un développement web qui correspond à vos attentes et à vos besoins."
+            }
+          ]
+        },
+        {
+          "id" : 3,
+          "titre" : "Un tarif adapté à votre projet",
+          "detail" : [
+            {
+              "id" : 1,
+              "libelle" : "Travaillant régulièrement avec des PME, associations ou particuliers, je vous propose des solutions à votre portée et adaptée à votre budget."
+            }
+          ]
+        }
+      ]
+    },
+    "services" : {
+      "titre" : "MES SERVICES",
+      "soustitre" : "Des prestations adaptées à vos besoins",
+      "listeservices" : [
+        {
+          "id" : 1,
+          "titre" : "GESTION DE PROJETS WEB",
+          "classeimg" : "bx bx-globe",
+          "detail" : "Site vitrine, corporate, évènementiel, e-commerce, intranet, application mobile."
+        },
+        {
+          "id" : 2,
+          "titre" : "INTÉGRATION WEB",
+          "classeimg" : "bx bxs-edit",
+          "detail" : "Des intégrations HTML / CSS respectueuses des standards du Web."
+        },
+        {
+          "id" : 3,
+          "titre" : "DÉVELOPPEMENTS SPÉCIFIQUES",
+          "classeimg" : "bx bxs-wrench",
+          "detail" : "Des outils adaptés à votre coeur de métier, applications et solutions personnalisées."
+        },
+        {
+          "id" : 4,
+          "titre" : "RÉFÉRENCEMENT NATUREL",
+          "classeimg" : "bx bx-check-square",
+          "detail" : "Affichage sémantique des informations, des pages propres pour un référencement optimal."
+        },
+        {
+          "id" : 5,
+          "titre" : "CONCEPTION GRAPHIQUE ET WEBDESIGN",
+          "classeimg" : "bx bx-edit-alt",
+          "detail" : "Logos, templates Web, plaquettes publicitaires, cartes de visite, newsletters..."
+        },
+        {
+          "id" : 6,
+          "titre" : "DYNAMISME DES PAGES",
+          "classeimg" : "bx bx-sync",
+          "detail" : "Des animations de contenu non intrusives pour embellir votre projet."
+        },
+        {
+          "id" : 7,
+          "titre" : "INTERFACE D'ADMINISTRATION",
+          "classeimg" : "bx bxs-cog",
+          "detail" : "Outils spécifiques au bon fonctionnement  de votre entreprise."
+        },
+        {
+          "id" : 8,
+          "titre" : "RESPONSIVE DESIGN",
+          "classeimg" : "bx bx-repost",
+          "detail" : "Compatible à tous supports : tablette, mobile..."
+        }
+      ]
+    },
+    "realisations" : {
+      "titre" : "Mes projets",
+      "soustitre" : "Une partie des projets sur lesquels j'ai travaillé",
+      "slogan" : "Ici, la différence est dans la qualité des services",
+      "listerealisations" : [
+        {
+          "id" : 1,
+          "titre" : "Application de gestion des correspondances",
+          "photo" : "/assets/img/portfolio/appmobile/app1.jpg",
+          "type" : "mobile",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        },
+        {
+          "id" : 2,
+          "titre" : "Gestion de l'Energie",
+          "photo" : "assets/img/portfolio/design/design1.jpg",
+          "type" : "graphique",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        },
+        {
+          "id" : 3,
+          "titre" : "Géolocalisation des établissements scolaires en RDC",
+          "photo" : "/assets/img/portfolio/appmobile/app2.jpg",
+          "type" : "mobile",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        },
+        {
+          "id" : 4,
+          "titre" : "Site web de visite touristique",
+          "photo" : "assets/img/portfolio/appweb/app1.jpg",
+          "type" : "web",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+         },
+        {
+          "id" : 5,
+          "titre" : "Coneption graphique",
+          "photo" : "assets/img/portfolio/design/design2.jpg",
+          "type" : "graphique",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        },
+        {
+          "id" : 6,
+          "titre" : "Suivi et évaluation",
+          "photo" : "assets/img/portfolio/appmobile/app3.jpg",
+          "type" : "mobile",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."   
+        }, 
+        {
+          "id" : 7,
+          "titre" : "Site web pour le parcours scolaire des apprenants en RDC",
+          "photo" : "assets/img/portfolio/appweb/app2.jpg",
+          "type" : "web",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+          },
+        {
+          "id" : 8,
+          "titre" : "Site de e-Commerce",
+          "photo" : "assets/img/portfolio/appweb/app3.jpg",
+          "type" : "web",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        },
+        {
+          "id" : 9,
+          "titre" : "UX Design",
+          "photo" : "assets/img/portfolio/design/design3.jpg",
+          "type" : "graphique",
+          "detail" : "Lorem tis corrupti, enim temporibus labore reprehenderit. Incidunt possimus atque nemo est."
+        }
+      ]
+    },
+    "competences" : {
+      "titre" : "Mes Compétences",
+      "soustitre" : "Des compétences à votre service",
+      "image" : "/assets/img/competences.jpg",
+      "titrecompetence" : "Compétences en développement",
+      "commentaires" : "Du site vitrine au projet plus complexe, je vous propose une expertise et un développement web qui correspond à vos attentes et à vos besoins.",
+      "listematieres" : [
+        {
+          "id" : 1,
+          "titre" : "HTML",
+          "niveau" : 100
+        },
+        {
+          "id" : 2,
+          "titre" : "CSS",
+          "niveau" : 80
+        },
+        {
+          "id" : 3,
+          "titre" : "JAVASCRIPT - AJAX",
+          "niveau" : 65
+        },
+        {
+          "id" : 4,
+          "titre" : "JAVA - JEE",
+          "niveau" : 70
+        },
+        {
+          "id" : 5,
+          "titre" : "MYSQL - SQL - PHP",
+          "niveau" : 75
+        },
+        {
+          "id" : 6,
+          "titre" : "ASP.NET - VB.NET",
+          "niveau" : 97
+        }
+      ]
+    }
+  },
+  "messages" :[
+    {
+      "id" : 0,
+      "emailexp" : "",
+      "nomexp" : "",
+      "objetmessage" : "",
+      "corpmessage" : ""
+    }
+  ]
+}

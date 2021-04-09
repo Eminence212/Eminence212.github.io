@@ -1,0 +1,4 @@
+# Règle pour tous les robots
+User-agent: * 
+Disallow:
+Sitemap: https://eminence212.github.io/sitemap.xml
